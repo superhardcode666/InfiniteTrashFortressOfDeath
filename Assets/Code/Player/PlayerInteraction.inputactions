@@ -1,0 +1,44 @@
+{
+    "name": "PlayerInteraction",
+    "maps": [
+        {
+            "name": "Main",
+            "id": "35178cf3-e6f5-4778-bc02-a1382f9bb6f9",
+            "actions": [
+                {
+                    "name": "Interaction",
+                    "type": "PassThrough",
+                    "id": "dd244f39-fab1-4a35-873c-95f11dbc149a",
+                    "expectedControlType": "Button",
+                    "processors": "NormalizeVector2",
+                    "interactions": "Press"
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "f68552c9-f7d0-47e4-b37b-7e54751f199f",
+                    "path": "<Gamepad>/buttonEast",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Interaction",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "3a6c6fed-5ecc-45a1-a313-050ea336db6c",
+                    "path": "<Keyboard>/space",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Interaction",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

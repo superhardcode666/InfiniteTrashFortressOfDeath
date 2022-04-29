@@ -1,0 +1,3672 @@
+fileFormatVersion: 2
+guid: bd44eaf12d953467baa3d5edc583d448
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3533976886895983499
+    second: WeaponsAndArmour_0
+  - first:
+      213: -7474425881307132362
+    second: WeaponsAndArmour_1
+  - first:
+      213: 7438914592941226157
+    second: WeaponsAndArmour_2
+  - first:
+      213: 3434242161217800133
+    second: WeaponsAndArmour_3
+  - first:
+      213: 455145002751957567
+    second: WeaponsAndArmour_4
+  - first:
+      213: 2967268391262051204
+    second: WeaponsAndArmour_5
+  - first:
+      213: 8718032365188632678
+    second: WeaponsAndArmour_6
+  - first:
+      213: -6557533818058999217
+    second: WeaponsAndArmour_7
+  - first:
+      213: -8912209298232222039
+    second: WeaponsAndArmour_8
+  - first:
+      213: 7528096497151347376
+    second: WeaponsAndArmour_9
+  - first:
+      213: 2797754788195160342
+    second: WeaponsAndArmour_10
+  - first:
+      213: 7997256338990333206
+    second: WeaponsAndArmour_11
+  - first:
+      213: 7413832058611351062
+    second: WeaponsAndArmour_12
+  - first:
+      213: -2163129299252637879
+    second: WeaponsAndArmour_13
+  - first:
+      213: -7477482696820776320
+    second: WeaponsAndArmour_14
+  - first:
+      213: 4562337498492067164
+    second: WeaponsAndArmour_15
+  - first:
+      213: -4316334034328043250
+    second: WeaponsAndArmour_16
+  - first:
+      213: 2036224884346633214
+    second: WeaponsAndArmour_17
+  - first:
+      213: -5091423454239175432
+    second: WeaponsAndArmour_18
+  - first:
+      213: -3056054309221139476
+    second: WeaponsAndArmour_19
+  - first:
+      213: 5956761542052665998
+    second: WeaponsAndArmour_20
+  - first:
+      213: 6180929965961799379
+    second: WeaponsAndArmour_21
+  - first:
+      213: 2083948472008912374
+    second: WeaponsAndArmour_22
+  - first:
+      213: -5676817397718975068
+    second: WeaponsAndArmour_23
+  - first:
+      213: -6409407154409094995
+    second: WeaponsAndArmour_24
+  - first:
+      213: 5830031861624322438
+    second: WeaponsAndArmour_25
+  - first:
+      213: -3866840617955714864
+    second: WeaponsAndArmour_26
+  - first:
+      213: -533862703221890788
+    second: WeaponsAndArmour_27
+  - first:
+      213: 6863561585306023750
+    second: WeaponsAndArmour_28
+  - first:
+      213: -2426245159168675154
+    second: WeaponsAndArmour_29
+  - first:
+      213: -8493643181888616953
+    second: WeaponsAndArmour_30
+  - first:
+      213: -4633167884268386584
+    second: WeaponsAndArmour_31
+  - first:
+      213: -4136366110992447190
+    second: WeaponsAndArmour_32
+  - first:
+      213: -602699658912457313
+    second: WeaponsAndArmour_33
+  - first:
+      213: 4074235848548479412
+    second: WeaponsAndArmour_34
+  - first:
+      213: 6520863188897520846
+    second: WeaponsAndArmour_35
+  - first:
+      213: -2678928450253201789
+    second: WeaponsAndArmour_36
+  - first:
+      213: 2715268263567996487
+    second: WeaponsAndArmour_37
+  - first:
+      213: -8107700620605130164
+    second: WeaponsAndArmour_38
+  - first:
+      213: -7539001950576386215
+    second: WeaponsAndArmour_39
+  - first:
+      213: 7794874717211999773
+    second: WeaponsAndArmour_40
+  - first:
+      213: 963885156141457721
+    second: WeaponsAndArmour_41
+  - first:
+      213: 2168112950813971574
+    second: WeaponsAndArmour_42
+  - first:
+      213: 5980581211345462935
+    second: WeaponsAndArmour_43
+  - first:
+      213: 2781996963985367772
+    second: WeaponsAndArmour_44
+  - first:
+      213: 4555707834102422630
+    second: WeaponsAndArmour_45
+  - first:
+      213: 2549287640063772701
+    second: WeaponsAndArmour_46
+  - first:
+      213: 8872747103857624531
+    second: WeaponsAndArmour_47
+  - first:
+      213: -8741006637495720801
+    second: WeaponsAndArmour_48
+  - first:
+      213: -7013480675308476835
+    second: WeaponsAndArmour_49
+  - first:
+      213: -4120822478987125400
+    second: WeaponsAndArmour_50
+  - first:
+      213: 2476863864660305110
+    second: WeaponsAndArmour_51
+  - first:
+      213: -1624003316989229598
+    second: WeaponsAndArmour_52
+  - first:
+      213: 7259618836261780066
+    second: WeaponsAndArmour_53
+  - first:
+      213: -6502291667766236224
+    second: WeaponsAndArmour_54
+  - first:
+      213: 5546823245715006375
+    second: WeaponsAndArmour_55
+  - first:
+      213: 1435076365241394635
+    second: WeaponsAndArmour_56
+  - first:
+      213: -1873385865622646605
+    second: WeaponsAndArmour_57
+  - first:
+      213: -2815236414001095839
+    second: WeaponsAndArmour_58
+  - first:
+      213: 8395653170544168882
+    second: WeaponsAndArmour_59
+  - first:
+      213: -1940002339227844854
+    second: WeaponsAndArmour_60
+  - first:
+      213: -8004448137091844550
+    second: WeaponsAndArmour_61
+  - first:
+      213: 2689069941943416336
+    second: WeaponsAndArmour_62
+  - first:
+      213: 3818340774379336609
+    second: WeaponsAndArmour_63
+  - first:
+      213: -2728265627073083997
+    second: WeaponsAndArmour_64
+  - first:
+      213: -4692296069109088246
+    second: WeaponsAndArmour_65
+  - first:
+      213: 2264824597881937116
+    second: WeaponsAndArmour_66
+  - first:
+      213: -2791205062616324176
+    second: WeaponsAndArmour_67
+  - first:
+      213: -6957961540741428726
+    second: WeaponsAndArmour_68
+  - first:
+      213: 4089725166558565183
+    second: WeaponsAndArmour_69
+  - first:
+      213: -93988584803245271
+    second: WeaponsAndArmour_70
+  - first:
+      213: -584595739308677432
+    second: WeaponsAndArmour_71
+  - first:
+      213: -208189929176137046
+    second: WeaponsAndArmour_72
+  - first:
+      213: 6997099923476419653
+    second: WeaponsAndArmour_73
+  - first:
+      213: 141853440335389380
+    second: WeaponsAndArmour_74
+  - first:
+      213: -7832988503116945696
+    second: WeaponsAndArmour_75
+  - first:
+      213: -4194167146868153525
+    second: WeaponsAndArmour_76
+  - first:
+      213: -606688818025781800
+    second: WeaponsAndArmour_77
+  - first:
+      213: -5476954163381401176
+    second: WeaponsAndArmour_78
+  - first:
+      213: -9062915644427775226
+    second: WeaponsAndArmour_79
+  - first:
+      213: -2376448921488326462
+    second: WeaponsAndArmour_80
+  - first:
+      213: -5119365158989735452
+    second: WeaponsAndArmour_81
+  - first:
+      213: 2148715753260077794
+    second: WeaponsAndArmour_82
+  - first:
+      213: -4398990254217703812
+    second: WeaponsAndArmour_83
+  - first:
+      213: -2100544196606038350
+    second: WeaponsAndArmour_84
+  - first:
+      213: 3063459049611309828
+    second: WeaponsAndArmour_85
+  - first:
+      213: 7570167248837508249
+    second: WeaponsAndArmour_86
+  - first:
+      213: 4840875550863008939
+    second: WeaponsAndArmour_87
+  - first:
+      213: -2569851278444989335
+    second: WeaponsAndArmour_88
+  - first:
+      213: 8059440789360302626
+    second: WeaponsAndArmour_89
+  - first:
+      213: 7727004656230164784
+    second: WeaponsAndArmour_90
+  - first:
+      213: -3348173919698285975
+    second: WeaponsAndArmour_91
+  - first:
+      213: -9025885643085753687
+    second: WeaponsAndArmour_92
+  - first:
+      213: -8336213137277556493
+    second: WeaponsAndArmour_93
+  - first:
+      213: 6141230750215183566
+    second: WeaponsAndArmour_94
+  - first:
+      213: 9043337243342607628
+    second: WeaponsAndArmour_95
+  - first:
+      213: 6769195860287295601
+    second: WeaponsAndArmour_96
+  - first:
+      213: 3764821023639397208
+    second: WeaponsAndArmour_97
+  - first:
+      213: 842176844981999846
+    second: WeaponsAndArmour_98
+  - first:
+      213: -3176152990616068609
+    second: WeaponsAndArmour_99
+  - first:
+      213: -4374338521232504247
+    second: WeaponsAndArmour_100
+  - first:
+      213: -2571438116396748843
+    second: WeaponsAndArmour_101
+  - first:
+      213: 2693413675284149813
+    second: WeaponsAndArmour_102
+  - first:
+      213: 4000057023610285332
+    second: WeaponsAndArmour_103
+  - first:
+      213: 3978971355406111543
+    second: WeaponsAndArmour_104
+  - first:
+      213: 6887774159401809062
+    second: WeaponsAndArmour_105
+  - first:
+      213: 2319441540879359426
+    second: WeaponsAndArmour_106
+  - first:
+      213: 1431776480481682288
+    second: WeaponsAndArmour_107
+  - first:
+      213: 6310207756646432597
+    second: WeaponsAndArmour_108
+  - first:
+      213: -6662663342460871395
+    second: WeaponsAndArmour_109
+  - first:
+      213: -4171051083699527972
+    second: WeaponsAndArmour_110
+  - first:
+      213: -2873907044815866269
+    second: WeaponsAndArmour_111
+  - first:
+      213: -4965247705174070658
+    second: WeaponsAndArmour_112
+  - first:
+      213: -2804056954736476666
+    second: WeaponsAndArmour_113
+  - first:
+      213: -5956829320485736651
+    second: WeaponsAndArmour_114
+  - first:
+      213: 3675424883516520937
+    second: WeaponsAndArmour_115
+  - first:
+      213: -6221114732805391949
+    second: WeaponsAndArmour_116
+  - first:
+      213: 8335169377536963052
+    second: WeaponsAndArmour_117
+  - first:
+      213: -4777389058114388691
+    second: WeaponsAndArmour_118
+  - first:
+      213: -896492682149528468
+    second: WeaponsAndArmour_119
+  - first:
+      213: 6006503629193537605
+    second: WeaponsAndArmour_120
+  - first:
+      213: -8162901106845414304
+    second: WeaponsAndArmour_121
+  - first:
+      213: 6175237411019053889
+    second: WeaponsAndArmour_122
+  - first:
+      213: 7910808951700714273
+    second: WeaponsAndArmour_123
+  - first:
+      213: 5120245595804670900
+    second: WeaponsAndArmour_124
+  - first:
+      213: -5278494518041466499
+    second: WeaponsAndArmour_125
+  - first:
+      213: -5667715870224219826
+    second: WeaponsAndArmour_126
+  - first:
+      213: 738888414450000410
+    second: WeaponsAndArmour_127
+  - first:
+      213: 9203150754068538293
+    second: WeaponsAndArmour_128
+  - first:
+      213: 2943917714603395459
+    second: WeaponsAndArmour_129
+  - first:
+      213: -5504302193000313291
+    second: WeaponsAndArmour_130
+  - first:
+      213: -2309510637206017795
+    second: WeaponsAndArmour_131
+  - first:
+      213: -3917202334156835361
+    second: WeaponsAndArmour_132
+  - first:
+      213: -866976133736170727
+    second: WeaponsAndArmour_133
+  - first:
+      213: -3568117913140009258
+    second: WeaponsAndArmour_134
+  - first:
+      213: 8153430657956814397
+    second: WeaponsAndArmour_135
+  - first:
+      213: -8483091177761392308
+    second: WeaponsAndArmour_136
+  - first:
+      213: 6954897137106355154
+    second: WeaponsAndArmour_137
+  - first:
+      213: -3766750799486571874
+    second: WeaponsAndArmour_138
+  - first:
+      213: 1586739088641404900
+    second: WeaponsAndArmour_139
+  - first:
+      213: -3039789653127443968
+    second: WeaponsAndArmour_140
+  - first:
+      213: 3022615421750345828
+    second: WeaponsAndArmour_141
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WeaponsAndArmour_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 574cf14cebac4fec0800000000000000
+      internalID: -3533976886895983499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ec3bc1341854890800000000000000
+      internalID: -7474425881307132362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da83bb2c8655c3760800000000000000
+      internalID: 7438914592941226157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c78e0cdc01e8af20800000000000000
+      internalID: 3434242161217800133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a1352f7fff05600800000000000000
+      internalID: 455145002751957567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b5b6e61eadd2920800000000000000
+      internalID: 2967268391262051204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6605d6bfe3cacf870800000000000000
+      internalID: 8718032365188632678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a7bfb5cb5fef4a0800000000000000
+      internalID: -6557533818058999217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae5fe6bcd8715480800000000000000
+      internalID: -8912209298232222039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba819be0eb297860800000000000000
+      internalID: 7528096497151347376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611550f182f93d620800000000000000
+      internalID: 2797754788195160342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_11
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d724fd446fbfe60800000000000000
+      internalID: 7997256338990333206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ebee52af833e660800000000000000
+      internalID: 7413832058611351062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_13
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f8ec2fc550bf1e0800000000000000
+      internalID: -2163129299252637879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0822ed9ca15aa3890800000000000000
+      internalID: -7477482696820776320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_15
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d501758cda05f30800000000000000
+      internalID: 4562337498492067164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_16
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01c2ff801d4914c0800000000000000
+      internalID: -4316334034328043250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_17
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efbba427ebf124c10800000000000000
+      internalID: 2036224884346633214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc4bf80851a759b0800000000000000
+      internalID: -5091423454239175432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_19
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb72942cc6b695d0800000000000000
+      internalID: -3056054309221139476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_20
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ad1cdef0baaa250800000000000000
+      internalID: 5956761542052665998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_21
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d668ba5e0317c550800000000000000
+      internalID: 6180929965961799379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_22
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd2f44181cabec10800000000000000
+      internalID: 2083948472008912374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_23
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4adf33267a4e731b0800000000000000
+      internalID: -5676817397718975068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_24
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da0499cc6263d07a0800000000000000
+      internalID: -6409407154409094995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_25
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 689b35dd61f68e050800000000000000
+      internalID: 5830031861624322438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_26
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d892b302f8365ac0800000000000000
+      internalID: -3866840617955714864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_27
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1121af23b65798f0800000000000000
+      internalID: -533862703221890788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 647be2aa5e4404f50800000000000000
+      internalID: 6863561585306023750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_29
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea27dbde1ee345ed0800000000000000
+      internalID: -2426245159168675154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_30
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7064c9ef684802a80800000000000000
+      internalID: -8493643181888616953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_31
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e64f695b5ea3bfb0800000000000000
+      internalID: -4633167884268386584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_32
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a29c45dffeca896c0800000000000000
+      internalID: -4136366110992447190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_33
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d164c7ad7c2a7f0800000000000000
+      internalID: -602699658912457313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_34
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1f4e30be79a8830800000000000000
+      internalID: 4074235848548479412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_35
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc58237582ce7a50800000000000000
+      internalID: 6520863188897520846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_36
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38e58ff94c882dad0800000000000000
+      internalID: -2678928450253201789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_37
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 746bcdf79129ea520800000000000000
+      internalID: 2715268263567996487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_38
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4afd93fd39ab7f80800000000000000
+      internalID: -8107700620605130164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_39
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95fdae65ba5106790800000000000000
+      internalID: -7539001950576386215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_40
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e381c9145fc2c60800000000000000
+      internalID: 7794874717211999773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_41
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93165105178606d00800000000000000
+      internalID: 963885156141457721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 674d03add3fa61e10800000000000000
+      internalID: 2168112950813971574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_43
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7962f9cdcea4ff250800000000000000
+      internalID: 5980581211345462935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_44
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd22094cf73ab9620800000000000000
+      internalID: 2781996963985367772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_45
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c93205320293f30800000000000000
+      internalID: 4555707834102422630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_46
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d188b481a93e06320800000000000000
+      internalID: 2549287640063772701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_47
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d54f4b2b74522b70800000000000000
+      internalID: 8872747103857624531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_48
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f946cb866c4b1b680800000000000000
+      internalID: -8741006637495720801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_49
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d56eb2d1c7c1bae90800000000000000
+      internalID: -7013480675308476835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_50
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d1785d9c5efc6c0800000000000000
+      internalID: -4120822478987125400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_51
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d4241adf869f5220800000000000000
+      internalID: 2476863864660305110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_52
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e50dc866916679e0800000000000000
+      internalID: -1624003316989229598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_53
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a3e145ed85fb460800000000000000
+      internalID: 7259618836261780066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cbafc4cd2833c5a0800000000000000
+      internalID: -6502291667766236224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_55
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a3e8b88a564afc40800000000000000
+      internalID: 5546823245715006375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc5a5cfc95a6ae310800000000000000
+      internalID: 1435076365241394635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_57
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b013581b756006e0800000000000000
+      internalID: -1873385865622646605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_58
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b58b0b5654ee8d0800000000000000
+      internalID: -2815236414001095839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_59
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bfcaa7931a538470800000000000000
+      internalID: 8395653170544168882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_60
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0fb5eaa62ab315e0800000000000000
+      internalID: -1940002339227844854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_61
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a367a9524dc7ae090800000000000000
+      internalID: -8004448137091844550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_62
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 016b7b96dde715520800000000000000
+      internalID: 2689069941943416336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_63
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a3354034b87df430800000000000000
+      internalID: 3818340774379336609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_64
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a5866dfdd0432ad0800000000000000
+      internalID: -2728265627073083997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_65
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a008ac3069d91eeb0800000000000000
+      internalID: -4692296069109088246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_66
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdcd153e8f54e6f10800000000000000
+      internalID: 2264824597881937116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_67
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b76b73b8c5a349d0800000000000000
+      internalID: -2791205062616324176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_68
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a0743f7da507f90800000000000000
+      internalID: -6957961540741428726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_69
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f33d2b5ee5f91c830800000000000000
+      internalID: 4089725166558565183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9236cdd41e512bef0800000000000000
+      internalID: -93988584803245271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_71
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6ac4db54913e7f0800000000000000
+      internalID: -584595739308677432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_72
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa284a9cc5c5c1df0800000000000000
+      internalID: -208189929176137046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_73
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54499b4ee41ba1160800000000000000
+      internalID: 6997099923476419653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_74
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2ab51d3f6f7f100800000000000000
+      internalID: 141853440335389380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_75
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6eef51572ab4390800000000000000
+      internalID: -7832988503116945696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_76
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b436f4a93335bc5c0800000000000000
+      internalID: -4194167146868153525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_77
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d52f500cbb9497f0800000000000000
+      internalID: -606688818025781800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_78
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a90e80e433fdf3b0800000000000000
+      internalID: -5476954163381401176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_79
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6035d802d3e0a3280800000000000000
+      internalID: -9062915644427775226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_80
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c004dffb48250fd0800000000000000
+      internalID: -2376448921488326462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_81
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e9d7eee28c54f8b0800000000000000
+      internalID: -5119365158989735452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_82
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e25a5cd795c1dd10800000000000000
+      internalID: 2148715753260077794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_83
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ec2feaba5a3f2c0800000000000000
+      internalID: -4398990254217703812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_84
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bee94eae2e59d2e0800000000000000
+      internalID: -2100544196606038350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 403b90456c7938a20800000000000000
+      internalID: 3063459049611309828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_86
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c714d1103ae0960800000000000000
+      internalID: 7570167248837508249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_87
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba4201b5aae3e2340800000000000000
+      internalID: 4840875550863008939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_88
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 964f3beb0ed065cd0800000000000000
+      internalID: -2569851278444989335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_89
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a5d1a72b2e8df60800000000000000
+      internalID: 8059440789360302626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_90
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0396360abc5db3b60800000000000000
+      internalID: 7727004656230164784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_91
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a08263f85e881d0800000000000000
+      internalID: -3348173919698285975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_92
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2539c24dc9db280800000000000000
+      internalID: -9025885643085753687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_93
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f860ac9152df4c80800000000000000
+      internalID: -8336213137277556493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_94
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc184664d80a3550800000000000000
+      internalID: 6141230750215183566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_95
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c051f752f43608d70800000000000000
+      internalID: 9043337243342607628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_96
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 170187b25c301fd50800000000000000
+      internalID: 6769195860287295601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_97
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853e2fc26c45f3430800000000000000
+      internalID: 3764821023639397208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_98
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e81633e06300bb00800000000000000
+      internalID: 842176844981999846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_99
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffdd80adea90ce3d0800000000000000
+      internalID: -3176152990616068609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a01aa8a4a3b43c0800000000000000
+      internalID: -4374338521232504247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_101
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dfa54e38aa605cd0800000000000000
+      internalID: -2571438116396748843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_102
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536bd74a77de06520800000000000000
+      internalID: 2693413675284149813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_103
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41de8957bae038730800000000000000
+      internalID: 4000057023610285332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_104
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7339f62cd55283730800000000000000
+      internalID: 3978971355406111543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_105
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a47240ea1a469f50800000000000000
+      internalID: 6887774159401809062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_106
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd1661eacf403020800000000000000
+      internalID: 2319441540879359426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_107
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 073aed48f11bed310800000000000000
+      internalID: 1431776480481682288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_108
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f33d1958c529750800000000000000
+      internalID: 6310207756646432597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_109
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d5a968df67983a0800000000000000
+      internalID: -6662663342460871395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_110
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cded41873237d16c0800000000000000
+      internalID: -4171051083699527972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_111
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 366f144f4c4dd18d0800000000000000
+      internalID: -2873907044815866269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_112
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7aa647e485e71bb0800000000000000
+      internalID: -4965247705174070658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_113
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ef7f26e0df519d0800000000000000
+      internalID: -2804056954736476666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_114
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53fe0dc2b47155da0800000000000000
+      internalID: -5956829320485736651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_115
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e932a4557bb10330800000000000000
+      internalID: 3675424883516520937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_116
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b97f248c192aa9a0800000000000000
+      internalID: -6221114732805391949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_117
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce1fdc223687ca370800000000000000
+      internalID: 8335169377536963052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_118
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2df04d96fd43bdb0800000000000000
+      internalID: -4777389058114388691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_119
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c7db8c7a40f83f0800000000000000
+      internalID: -896492682149528468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_120
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 548ec281a336b5350800000000000000
+      internalID: 6006503629193537605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_121
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c06d531bc87be80800000000000000
+      internalID: -8162901106845414304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_122
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b5e7f15b9d2b550800000000000000
+      internalID: 6175237411019053889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_123
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 123f91c04d6d8cd60800000000000000
+      internalID: 7910808951700714273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_124
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb12bcbd34ce0740800000000000000
+      internalID: 5120245595804670900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_125
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d79aa47d3350fb6b0800000000000000
+      internalID: -5278494518041466499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_126
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e410173e17a3851b0800000000000000
+      internalID: -5667715870224219826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_127
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a12a1ff191f014a00800000000000000
+      internalID: 738888414450000410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3af96b9d828bf70800000000000000
+      internalID: 9203150754068538293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_129
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3894aea5095ead820800000000000000
+      internalID: 2943917714603395459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_130
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e00d9815acc93b0800000000000000
+      internalID: -5504302193000313291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_131
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df86950df48f2ffd0800000000000000
+      internalID: -2309510637206017795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_132
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd530473b3d43a9c0800000000000000
+      internalID: -3917202334156835361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_133
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91bf9efbcc1e7f3f0800000000000000
+      internalID: -866976133736170727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_134
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d6e496a9af7b7ec0800000000000000
+      internalID: -3568117913140009258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_135
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e9b441cfdc62170800000000000000
+      internalID: 8153430657956814397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_136
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c493848e481064a80800000000000000
+      internalID: -8483091177761392308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_137
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d30b9af812c48060800000000000000
+      internalID: 6954897137106355154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_138
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a2f2fda10d9bbc0800000000000000
+      internalID: -3766750799486571874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_139
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4efa2b15bca350610800000000000000
+      internalID: 1586739088641404900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_140
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a4e6d7a6f70d5d0800000000000000
+      internalID: -3039789653127443968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsAndArmour_141
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4600c0a26bc72f920800000000000000
+      internalID: 3022615421750345828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      WeaponsAndArmour_34: 4074235848548479412
+      WeaponsAndArmour_73: 6997099923476419653
+      WeaponsAndArmour_62: 2689069941943416336
+      WeaponsAndArmour_114: -5956829320485736651
+      WeaponsAndArmour_54: -6502291667766236224
+      WeaponsAndArmour_109: -6662663342460871395
+      WeaponsAndArmour_23: -5676817397718975068
+      WeaponsAndArmour_41: 963885156141457721
+      WeaponsAndArmour_99: -3176152990616068609
+      WeaponsAndArmour_96: 6769195860287295601
+      WeaponsAndArmour_138: -3766750799486571874
+      WeaponsAndArmour_58: -2815236414001095839
+      WeaponsAndArmour_27: -533862703221890788
+      WeaponsAndArmour_125: -5278494518041466499
+      WeaponsAndArmour_128: 9203150754068538293
+      WeaponsAndArmour_39: -7539001950576386215
+      WeaponsAndArmour_123: 7910808951700714273
+      WeaponsAndArmour_11: 7997256338990333206
+      WeaponsAndArmour_76: -4194167146868153525
+      WeaponsAndArmour_105: 6887774159401809062
+      WeaponsAndArmour_24: -6409407154409094995
+      WeaponsAndArmour_3: 3434242161217800133
+      WeaponsAndArmour_98: 842176844981999846
+      WeaponsAndArmour_44: 2781996963985367772
+      WeaponsAndArmour_121: -8162901106845414304
+      WeaponsAndArmour_134: -3568117913140009258
+      WeaponsAndArmour_94: 6141230750215183566
+      WeaponsAndArmour_64: -2728265627073083997
+      WeaponsAndArmour_101: -2571438116396748843
+      WeaponsAndArmour_8: -8912209298232222039
+      WeaponsAndArmour_16: -4316334034328043250
+      WeaponsAndArmour_29: -2426245159168675154
+      WeaponsAndArmour_46: 2549287640063772701
+      WeaponsAndArmour_126: -5667715870224219826
+      WeaponsAndArmour_78: -5476954163381401176
+      WeaponsAndArmour_108: 6310207756646432597
+      WeaponsAndArmour_85: 3063459049611309828
+      WeaponsAndArmour_71: -584595739308677432
+      WeaponsAndArmour_111: -2873907044815866269
+      WeaponsAndArmour_74: 141853440335389380
+      WeaponsAndArmour_2: 7438914592941226157
+      WeaponsAndArmour_84: -2100544196606038350
+      WeaponsAndArmour_89: 8059440789360302626
+      WeaponsAndArmour_112: -4965247705174070658
+      WeaponsAndArmour_132: -3917202334156835361
+      WeaponsAndArmour_129: 2943917714603395459
+      WeaponsAndArmour_131: -2309510637206017795
+      WeaponsAndArmour_90: 7727004656230164784
+      WeaponsAndArmour_45: 4555707834102422630
+      WeaponsAndArmour_137: 6954897137106355154
+      WeaponsAndArmour_68: -6957961540741428726
+      WeaponsAndArmour_82: 2148715753260077794
+      WeaponsAndArmour_37: 2715268263567996487
+      WeaponsAndArmour_93: -8336213137277556493
+      WeaponsAndArmour_135: 8153430657956814397
+      WeaponsAndArmour_13: -2163129299252637879
+      WeaponsAndArmour_35: 6520863188897520846
+      WeaponsAndArmour_47: 8872747103857624531
+      WeaponsAndArmour_91: -3348173919698285975
+      WeaponsAndArmour_119: -896492682149528468
+      WeaponsAndArmour_139: 1586739088641404900
+      WeaponsAndArmour_5: 2967268391262051204
+      WeaponsAndArmour_43: 5980581211345462935
+      WeaponsAndArmour_79: -9062915644427775226
+      WeaponsAndArmour_56: 1435076365241394635
+      WeaponsAndArmour_55: 5546823245715006375
+      WeaponsAndArmour_19: -3056054309221139476
+      WeaponsAndArmour_110: -4171051083699527972
+      WeaponsAndArmour_4: 455145002751957567
+      WeaponsAndArmour_65: -4692296069109088246
+      WeaponsAndArmour_141: 3022615421750345828
+      WeaponsAndArmour_30: -8493643181888616953
+      WeaponsAndArmour_7: -6557533818058999217
+      WeaponsAndArmour_66: 2264824597881937116
+      WeaponsAndArmour_9: 7528096497151347376
+      WeaponsAndArmour_15: 4562337498492067164
+      WeaponsAndArmour_26: -3866840617955714864
+      WeaponsAndArmour_38: -8107700620605130164
+      WeaponsAndArmour_6: 8718032365188632678
+      WeaponsAndArmour_32: -4136366110992447190
+      WeaponsAndArmour_48: -8741006637495720801
+      WeaponsAndArmour_1: -7474425881307132362
+      WeaponsAndArmour_86: 7570167248837508249
+      WeaponsAndArmour_50: -4120822478987125400
+      WeaponsAndArmour_83: -4398990254217703812
+      WeaponsAndArmour_122: 6175237411019053889
+      WeaponsAndArmour_88: -2569851278444989335
+      WeaponsAndArmour_102: 2693413675284149813
+      WeaponsAndArmour_136: -8483091177761392308
+      WeaponsAndArmour_52: -1624003316989229598
+      WeaponsAndArmour_67: -2791205062616324176
+      WeaponsAndArmour_87: 4840875550863008939
+      WeaponsAndArmour_130: -5504302193000313291
+      WeaponsAndArmour_33: -602699658912457313
+      WeaponsAndArmour_31: -4633167884268386584
+      WeaponsAndArmour_61: -8004448137091844550
+      WeaponsAndArmour_107: 1431776480481682288
+      WeaponsAndArmour_95: 9043337243342607628
+      WeaponsAndArmour_69: 4089725166558565183
+      WeaponsAndArmour_14: -7477482696820776320
+      WeaponsAndArmour_117: 8335169377536963052
+      WeaponsAndArmour_120: 6006503629193537605
+      WeaponsAndArmour_59: 8395653170544168882
+      WeaponsAndArmour_127: 738888414450000410
+      WeaponsAndArmour_57: -1873385865622646605
+      WeaponsAndArmour_22: 2083948472008912374
+      WeaponsAndArmour_20: 5956761542052665998
+      WeaponsAndArmour_81: -5119365158989735452
+      WeaponsAndArmour_77: -606688818025781800
+      WeaponsAndArmour_116: -6221114732805391949
+      WeaponsAndArmour_118: -4777389058114388691
+      WeaponsAndArmour_18: -5091423454239175432
+      WeaponsAndArmour_97: 3764821023639397208
+      WeaponsAndArmour_113: -2804056954736476666
+      WeaponsAndArmour_100: -4374338521232504247
+      WeaponsAndArmour_106: 2319441540879359426
+      WeaponsAndArmour_53: 7259618836261780066
+      WeaponsAndArmour_75: -7832988503116945696
+      WeaponsAndArmour_124: 5120245595804670900
+      WeaponsAndArmour_80: -2376448921488326462
+      WeaponsAndArmour_17: 2036224884346633214
+      WeaponsAndArmour_103: 4000057023610285332
+      WeaponsAndArmour_36: -2678928450253201789
+      WeaponsAndArmour_12: 7413832058611351062
+      WeaponsAndArmour_133: -866976133736170727
+      WeaponsAndArmour_70: -93988584803245271
+      WeaponsAndArmour_42: 2168112950813971574
+      WeaponsAndArmour_63: 3818340774379336609
+      WeaponsAndArmour_60: -1940002339227844854
+      WeaponsAndArmour_40: 7794874717211999773
+      WeaponsAndArmour_72: -208189929176137046
+      WeaponsAndArmour_51: 2476863864660305110
+      WeaponsAndArmour_25: 5830031861624322438
+      WeaponsAndArmour_10: 2797754788195160342
+      WeaponsAndArmour_49: -7013480675308476835
+      WeaponsAndArmour_115: 3675424883516520937
+      WeaponsAndArmour_0: -3533976886895983499
+      WeaponsAndArmour_21: 6180929965961799379
+      WeaponsAndArmour_28: 6863561585306023750
+      WeaponsAndArmour_104: 3978971355406111543
+      WeaponsAndArmour_140: -3039789653127443968
+      WeaponsAndArmour_92: -9025885643085753687
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89f1b8853ea3f480cac67b4e9bac2603, type: 3}
+  m_Name: GameStartMessage
+  m_EditorClassIdentifier: 
+  dialogue:
+  - 'Hey, You! '
+  - Welcome to the <anim:shake><color=red>Tower of Edgy Cliches</color></anim>.
+  - 'It''s ya boi - <anim:wave>DEATH!</anim> '
+  - 'I''ll be your mysterious Tour Guide and ultimately, <anim:wave><color=red>your
+    Judge.</color></anim> '
+  - You probably have a bunch of questions - but trust me - <sp:4>now is not the
+    time.
+  - For all intents and purposes, think of yourself as a rat, running through a <anim:shake><size=50%>deadly</size></anim>
+    maze,
+  - 'grabbing everything you can find, struggling to reach the top. '
+  - 'for science of course. '
+  - i-it's not like i'm a sadist or something...
+  - i just love rats.
+  - <anim:shake><color=red>BAKA!</color></anim>
+  - anyway, let's see how long you last!
+  responseOptions: []

@@ -1,0 +1,44 @@
+{
+    "name": "PlayerInventory",
+    "maps": [
+        {
+            "name": "Main",
+            "id": "35178cf3-e6f5-4778-bc02-a1382f9bb6f9",
+            "actions": [
+                {
+                    "name": "Inventory",
+                    "type": "Button",
+                    "id": "4b75046e-a1c6-4941-8641-a1c1ba480c78",
+                    "expectedControlType": "Button",
+                    "processors": "NormalizeVector2",
+                    "interactions": "Press"
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "85c4d5ea-81d7-451a-84fe-f927c3886e62",
+                    "path": "<Gamepad>/buttonEast",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Inventory",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "8790caf8-3d8e-4086-80e4-b544bbfec413",
+                    "path": "<Keyboard>/escape",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Inventory",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

@@ -1,0 +1,1278 @@
+fileFormatVersion: 2
+guid: dff7d984af60f4023ad9374c60b349ed
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 12
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 256
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EXFONT_glyphs_by_CharlesGabriel copy_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 36
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24919821de44a4225836fd2ebd570eee
+      internalID: 2050278445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXFONT_glyphs_by_CharlesGabriel copy_1
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 36
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59748c74182cc42fa9916634f562b4bb
+      internalID: 863969565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXFONT_glyphs_by_CharlesGabriel copy_2
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 36
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dfd745a5ef764ccfad57d14c6cd6692
+      internalID: 442126416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXFONT_glyphs_by_CharlesGabriel copy_3
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 36
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e7816267996450798442ad9c68ed70
+      internalID: -907721802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXFONT_glyphs_by_CharlesGabriel copy_4
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 36
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b69b5e31ad943e4879b71e249d743d
+      internalID: -1273831246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXFONT_glyphs_by_CharlesGabriel copy_5
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 36
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd71bd586550d4511baeaacdc023f45a
+      internalID: 1145094200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXFONT_glyphs_by_CharlesGabriel copy_6
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 36
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d949853d8904759a02cf2f2a74c9ff
+      internalID: -559711963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXFONT_glyphs_by_CharlesGabriel copy_7
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 36
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aedb1dd31fa347e09c2ac3bfb40bba0
+      internalID: 1121364094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXFONT_glyphs_by_CharlesGabriel copy_8
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 36
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4da620479bd4a5a984fd80af2c2b12
+      internalID: 501140788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXFONT_glyphs_by_CharlesGabriel copy_9
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 36
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 158ccec9b515949568839d502a020603
+      internalID: 74913098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXFONT_glyphs_by_CharlesGabriel copy_10
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 36
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c1432711660f497d96515537e35ca4b
+      internalID: 957985089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXFONT_glyphs_by_CharlesGabriel copy_11
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 36
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 327efe229a3484560989b524a29d8269
+      internalID: 2012385252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXFONT_glyphs_by_CharlesGabriel copy_12
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 36
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817f9d9a055b6494a8254e1ac072acac
+      internalID: 1671707606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXFONT_glyphs_by_CharlesGabriel copy_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c4582156f9094a7fa6f43757f62ef99
+      internalID: 1268132959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXFONT_glyphs_by_CharlesGabriel copy_14
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 24
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf3d2e3db4a24cf0be742a00d9fa3c4
+      internalID: -113260037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXFONT_glyphs_by_CharlesGabriel copy_15
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 24
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b8e91a36ea849288dade4bf15aadcd
+      internalID: -9397707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXFONT_glyphs_by_CharlesGabriel copy_16
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 24
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9726df1b96fc74815b3111d1286d83ae
+      internalID: -864774953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXFONT_glyphs_by_CharlesGabriel copy_17
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 24
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a87f6955685754b20a168ede21b63214
+      internalID: -5671146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXFONT_glyphs_by_CharlesGabriel copy_18
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 24
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c5ef07a5a144a889804b84ce6f76bc
+      internalID: -1262147582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXFONT_glyphs_by_CharlesGabriel copy_19
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 24
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ebef12f772b44c1988ba13b3341df9
+      internalID: -1656193992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXFONT_glyphs_by_CharlesGabriel copy_20
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 24
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7716afd0e851642b8b816271b1bae260
+      internalID: -1527417410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXFONT_glyphs_by_CharlesGabriel copy_21
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 24
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f01713980cac40efb0307702650206e
+      internalID: -1141927780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXFONT_glyphs_by_CharlesGabriel copy_22
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 24
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dba5a232cca346ad9a69fd97c3be2ad
+      internalID: -1359048042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXFONT_glyphs_by_CharlesGabriel copy_23
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 24
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82fb30a8d2d524a358334b85dfded1ab
+      internalID: -2089876887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXFONT_glyphs_by_CharlesGabriel copy_24
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 24
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d818811c1954355a5f063b37e805fc
+      internalID: 1553680262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXFONT_glyphs_by_CharlesGabriel copy_25
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 24
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 535f4289556294658b556dfe63db44ac
+      internalID: -897359222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXFONT_glyphs_by_CharlesGabriel copy_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b06726a5f04cf420aabc80acb4d835c8
+      internalID: -816007447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXFONT_glyphs_by_CharlesGabriel copy_27
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 12
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84cfbcd231c89455abfbf8a3d4c51eef
+      internalID: 1228963404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXFONT_glyphs_by_CharlesGabriel copy_28
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 12
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acaba277fe4834a4caf2f042f4abb6d1
+      internalID: 2110953838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXFONT_glyphs_by_CharlesGabriel copy_29
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 12
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6232695aee42b45d9815f8159036dfc8
+      internalID: 888645500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXFONT_glyphs_by_CharlesGabriel copy_30
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 12
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 726c7a9e9bae14ef08274541807bfc5d
+      internalID: 700909210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXFONT_glyphs_by_CharlesGabriel copy_31
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 12
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce4687ce3e894c55b29409218c73c0e
+      internalID: 437379072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXFONT_glyphs_by_CharlesGabriel copy_32
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 12
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ab402f08e66404faa650b7f5c2d13d
+      internalID: 1998441113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXFONT_glyphs_by_CharlesGabriel copy_33
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 12
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b52528540ff244b40b382c638073bc06
+      internalID: -1118763649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXFONT_glyphs_by_CharlesGabriel copy_34
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 12
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71bf9ff409d3047db950e963a595d9a8
+      internalID: -1713059378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXFONT_glyphs_by_CharlesGabriel copy_35
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 12
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9bdd9e47856e41d9bc8c06909813e6d
+      internalID: 1405035736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXFONT_glyphs_by_CharlesGabriel copy_36
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 12
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84cdb911b11f6496abc0fd9769d994bd
+      internalID: 23501151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXFONT_glyphs_by_CharlesGabriel copy_37
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 12
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cbff0b68215b42d1ac956a7f36fc46a
+      internalID: 1282640923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXFONT_glyphs_by_CharlesGabriel copy_38
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 12
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e24871c0a0d0b4633a81efef96bf385d
+      internalID: -1149181910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXFONT_glyphs_by_CharlesGabriel copy_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c05cc80c3b14e32be485548fb2b842
+      internalID: -909590156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXFONT_glyphs_by_CharlesGabriel copy_40
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 0
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2157357b57b9f4bfc8223c78c1c8dee2
+      internalID: -37823729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXFONT_glyphs_by_CharlesGabriel copy_41
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0034d1e8ec0e74f7e9ac72cdc52ba2c6
+      internalID: -1320598124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXFONT_glyphs_by_CharlesGabriel copy_42
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 0
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12777d2fd6ca748d88f49fca9e7b53ca
+      internalID: 1854728129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXFONT_glyphs_by_CharlesGabriel copy_43
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23213d46f777e46aba193d79857f4905
+      internalID: 1776507594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXFONT_glyphs_by_CharlesGabriel copy_44
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 0
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f8a26a0ff634d008feeb2a175b81e0
+      internalID: 701756187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXFONT_glyphs_by_CharlesGabriel copy_45
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 155262c2aa65645daae41c3af2dc6733
+      internalID: -1581875518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXFONT_glyphs_by_CharlesGabriel copy_46
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 0
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d6642dc78664c14a124d60410d23b8
+      internalID: -348908944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXFONT_glyphs_by_CharlesGabriel copy_47
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f7e9bdafbfa454a8a200bae21579cb
+      internalID: 447973411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXFONT_glyphs_by_CharlesGabriel copy_48
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 0
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f054ad0b066d4fb292e038c8df4360d
+      internalID: -1704247708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXFONT_glyphs_by_CharlesGabriel copy_49
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25767d7211df14c7f8119b198529a706
+      internalID: 1284521320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXFONT_glyphs_by_CharlesGabriel copy_50
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 0
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c769d4dad3e7f461ba7dca2e71415077
+      internalID: 1933751433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXFONT_glyphs_by_CharlesGabriel copy_51
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e329092251a7b49c18786d9ba3dded9a
+      internalID: 2116066724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      EXFONT_glyphs_by_CharlesGabriel copy_18: -1262147582
+      EXFONT_glyphs_by_CharlesGabriel copy_25: -897359222
+      EXFONT_glyphs_by_CharlesGabriel copy_51: 2116066724
+      EXFONT_glyphs_by_CharlesGabriel copy_47: 447973411
+      EXFONT_glyphs_by_CharlesGabriel copy_17: -5671146
+      EXFONT_glyphs_by_CharlesGabriel copy_35: 1405035736
+      EXFONT_glyphs_by_CharlesGabriel copy_13: 1268132959
+      EXFONT_glyphs_by_CharlesGabriel copy_28: 2110953838
+      EXFONT_glyphs_by_CharlesGabriel copy_43: 1776507594
+      EXFONT_glyphs_by_CharlesGabriel copy_50: 1933751433
+      EXFONT_glyphs_by_CharlesGabriel copy_29: 888645500
+      EXFONT_glyphs_by_CharlesGabriel copy_16: -864774953
+      EXFONT_glyphs_by_CharlesGabriel copy_44: 701756187
+      EXFONT_glyphs_by_CharlesGabriel copy_11: 2012385252
+      EXFONT_glyphs_by_CharlesGabriel copy_14: -113260037
+      EXFONT_glyphs_by_CharlesGabriel copy_48: -1704247708
+      EXFONT_glyphs_by_CharlesGabriel copy_31: 437379072
+      EXFONT_glyphs_by_CharlesGabriel copy_49: 1284521320
+      EXFONT_glyphs_by_CharlesGabriel copy_8: 501140788
+      EXFONT_glyphs_by_CharlesGabriel copy_9: 74913098
+      EXFONT_glyphs_by_CharlesGabriel copy_0: 2050278445
+      EXFONT_glyphs_by_CharlesGabriel copy_37: 1282640923
+      EXFONT_glyphs_by_CharlesGabriel copy_40: -37823729
+      EXFONT_glyphs_by_CharlesGabriel copy_38: -1149181910
+      EXFONT_glyphs_by_CharlesGabriel copy_5: 1145094200
+      EXFONT_glyphs_by_CharlesGabriel copy_1: 863969565
+      EXFONT_glyphs_by_CharlesGabriel copy_39: -909590156
+      EXFONT_glyphs_by_CharlesGabriel copy_33: -1118763649
+      EXFONT_glyphs_by_CharlesGabriel copy_45: -1581875518
+      EXFONT_glyphs_by_CharlesGabriel copy_3: -907721802
+      EXFONT_glyphs_by_CharlesGabriel copy_21: -1141927780
+      EXFONT_glyphs_by_CharlesGabriel copy_19: -1656193992
+      EXFONT_glyphs_by_CharlesGabriel copy_10: 957985089
+      EXFONT_glyphs_by_CharlesGabriel copy_12: 1671707606
+      EXFONT_glyphs_by_CharlesGabriel copy_24: 1553680262
+      EXFONT_glyphs_by_CharlesGabriel copy_20: -1527417410
+      EXFONT_glyphs_by_CharlesGabriel copy_34: -1713059378
+      EXFONT_glyphs_by_CharlesGabriel copy_26: -816007447
+      EXFONT_glyphs_by_CharlesGabriel copy_22: -1359048042
+      EXFONT_glyphs_by_CharlesGabriel copy_46: -348908944
+      EXFONT_glyphs_by_CharlesGabriel copy_32: 1998441113
+      EXFONT_glyphs_by_CharlesGabriel copy_36: 23501151
+      EXFONT_glyphs_by_CharlesGabriel copy_2: 442126416
+      EXFONT_glyphs_by_CharlesGabriel copy_15: -9397707
+      EXFONT_glyphs_by_CharlesGabriel copy_23: -2089876887
+      EXFONT_glyphs_by_CharlesGabriel copy_41: -1320598124
+      EXFONT_glyphs_by_CharlesGabriel copy_30: 700909210
+      EXFONT_glyphs_by_CharlesGabriel copy_4: -1273831246
+      EXFONT_glyphs_by_CharlesGabriel copy_6: -559711963
+      EXFONT_glyphs_by_CharlesGabriel copy_42: 1854728129
+      EXFONT_glyphs_by_CharlesGabriel copy_7: 1121364094
+      EXFONT_glyphs_by_CharlesGabriel copy_27: 1228963404
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
